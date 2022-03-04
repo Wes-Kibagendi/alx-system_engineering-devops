@@ -12,3 +12,4 @@ sudo - gives acces to superuser advantages.
 Scripts;
 
 su betty- switch to user betty
+whoami - prints username of current user
